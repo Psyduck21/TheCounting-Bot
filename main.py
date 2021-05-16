@@ -39,4 +39,4 @@ if __name__ == "__main__":
 
 
 
-bot.run("ODQwMjQ4MDU1MDI5OTU2NjU5.YJVb-w.Hvlh0UTa3bkZwpdxhbd-bP9lOms")
+bot.run(token)
